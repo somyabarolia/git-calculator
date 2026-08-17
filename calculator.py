@@ -15,4 +15,5 @@ else:
     print ('Division: Cannot divide by Zero\n')
 
 print ('Thank you for using the calculator')
+print ('python calculator')
 
