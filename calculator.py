@@ -17,9 +17,5 @@ else:
 print ('Thank you for using the calculator')
 print ('python calculator')
 
-#stage commit 
-#git commit -am 'added initial calculator code'
-
-
 
 
