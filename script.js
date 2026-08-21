@@ -22,6 +22,13 @@ function calculate(operator) {
             }
             result = num1 / num2;
             break;
+        case '%':
+            if (num2 === 0) {
+                alert("Cannot divide by zero");
+                return;
+            }
+            result = num1 % num2;
+            break;
         default:
             alert("Invalid operator");
             return;
